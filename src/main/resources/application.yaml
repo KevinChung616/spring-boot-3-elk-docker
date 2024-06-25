@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ELK-DEMO
+logging:
+  level:
+    root: info

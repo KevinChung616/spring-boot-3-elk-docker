@@ -1,0 +1,5 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /usr/share/dockerlogs/data/application.log
